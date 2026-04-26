@@ -1,7 +1,6 @@
 spring:
   application:
-    name: taskflow-backend
-
+    name: taskflow
   datasource:
     url: jdbc:postgresql://localhost:5432/task_manager
     username: postgres
